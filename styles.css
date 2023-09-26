@@ -14,18 +14,21 @@ a{
     color: blue;
     display: block;
     background-color:lemonchiffon;
+    width: fit-content;
 }
 
 a:visited{
     color: purple;
     display: block;
     background-color:lemonchiffon;
+    width: fit-content;
 }
 
 a:hover, a:focus {
     color: blue;
     display: block;
     background-color:lemonchiffon;
+    width: fit-content;
 }
 
 hr{
@@ -42,7 +45,7 @@ h1{
 
 h2 {
     border: 2px dashed darkblue;
-    border-width: 100%;
+    box-sizing: border-box;
     padding: 0.5 rem;
 }
 
