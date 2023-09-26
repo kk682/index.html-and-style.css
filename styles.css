@@ -1,8 +1,25 @@
 body{
     background-color: honeydew;
-    margin: 10;
+    margin: 1.3cm;
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+p{
+    color: 	#2f4f4f;
+}
+
+a{
+    color: blue;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover, a:focus {
+    color: blue;
 }
 
 hr{
@@ -13,9 +30,16 @@ hr{
     width: 100px;
 }
 
+h2 {
+    border: 2px dashed darkblue;
+    width: 50%
+    font-size:3rem;
+    padding: 0.5 rem;
+}
+
 img{
     position: relative;
-    left: 30px;
+    left: 60px;
     height: 200px;
 }
 
