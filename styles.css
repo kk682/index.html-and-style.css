@@ -1,6 +1,6 @@
 body{
     background-color: honeydew;
-    margin: 1.3cm;
+    margin: 2.5cm;
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
@@ -12,14 +12,23 @@ p{
 
 a{
     color: blue;
+    display: block;
+    background-color:lemonchiffon;
+    width: 100px;
 }
 
 a:visited{
     color: purple;
+    display: block;
+    background-color:lemonchiffon;
+    width: 100px;
 }
 
 a:hover, a:focus {
     color: blue;
+    display: block;
+    background-color:lemonchiffon;
+    width: 100px;
 }
 
 hr{
@@ -30,23 +39,20 @@ hr{
     width: 100px;
 }
 
+h1{
+    text-align: center;
+}
+
 h2 {
     border: 2px dashed darkblue;
-    width: 50%
-    font-size:3rem;
+    width: 50%;
     padding: 0.5 rem;
 }
 
 img{
     position: relative;
-    left: 60px;
+    left: 90px;
     height: 200px;
-}
-
-span{
-    display: block;
-    background-color:lemonchiffon;
-    width: 100px;
 }
 
 div{
