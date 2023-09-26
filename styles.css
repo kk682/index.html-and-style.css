@@ -42,14 +42,14 @@ h1{
 
 h2 {
     border: 2px dashed darkblue;
-    width: 50%;
-    padding: 1 rem;
+    border-width: 100%;
+    padding: 0.5 rem;
 }
 
 img{
-    position: relative;
     left: 90px;
     height: 200px;
+    width: 200px;
 }
 
 div{
