@@ -1,4 +1,30 @@
-<!DOCTYPE html>
-<html :lang("en")>
+body{
+    background-color: honeydew;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
-<head>
+hr{
+    border-style: dotted;
+    border-color: #ffe4e1;
+    border-width: 5px;
+    height: 20px;
+    width: 100px;
+}
+
+img{
+    position: relative;
+    left: 30px;
+    height: 20px;
+}
+
+span{
+    display: block;
+    background-color:lemonchiffon;
+    width: 100px;
+}
+
+div{
+    position: relative;
+}
