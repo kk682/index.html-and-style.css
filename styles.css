@@ -55,8 +55,9 @@ h2 {
     color: indianred;
 }
 
-div{
-    position: relative;
+img{
+    height: 200px;
+    width: 200px;
 }
 
 footer{
@@ -64,6 +65,3 @@ footer{
     color: #79ac79;
 }
 
-★{
-    color: #fffd8c;
-}
