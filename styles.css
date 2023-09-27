@@ -4,11 +4,11 @@ body{
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
-    color: midnightblue;
+    color: #2e4374;
 }
 
 p{
-    color: 	midnightblue;
+    color:	#2e4374;
 }
 
 a{
@@ -19,7 +19,7 @@ a{
 }
 
 a:visited{
-    color: purple;
+    color: blue;
     display: block;
     background-color:lemonchiffon;
     width: fit-content;
@@ -51,7 +51,7 @@ h2 {
     border: 2px dashed darkblue;
     box-sizing: border-box;
     padding: 0.5 rem;
-    font-family: Apple Chancery, cursive;
+    font-family: Chalkduster, fantasy;
     color: indianred;
 }
 
@@ -61,5 +61,5 @@ div{
 
 footer{
     text-align: right;
-    color: olivedrab;
+    color: #79ac79;
 }
