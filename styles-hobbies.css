@@ -16,20 +16,20 @@ h1{
     font-family: Brush Script MT, cursive;
     color: #ffb000;
     font-size: 66px;
-}
-
-h2 {
     border-style: none;
-    border-top-style: dotted;
+    border-bottom-style: dotted;
     border-color: darkblue;
     border-width: 5px;
     width: 10%;
+}
+
+h2 {
     font-family: Chalkduster, fantasy;
     color: #e25e3e;
 }
 
 img{
-    height: 600px;
+    height: 400px;
     width: 600px;
 }
 
