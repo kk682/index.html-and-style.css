@@ -1,0 +1,30 @@
+body{
+    background-color: #e4f1ff;
+    margin: 2.5cm;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color: #004225;
+}
+
+p{
+    color:	#004225;
+}
+
+h1{
+    text-align: left;
+    font-family: Brush Script MT, cursive;
+    color: #ffb000;
+    font-size: 66px;
+}
+
+img{
+    height: 600px;
+    width: 600px;
+}
+
+footer{
+    text-align: right;
+    font-size: 15px;
+    color: #79ac79;
+}

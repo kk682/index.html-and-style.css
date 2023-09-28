@@ -19,6 +19,8 @@ form{
     color: #0d1282;
 }
 
-action{
-
+footer{
+    text-align: right;
+    font-size: 15px;
+    color: #79ac79;
 }
