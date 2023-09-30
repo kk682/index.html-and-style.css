@@ -7,9 +7,6 @@ body{
     color: #004225;
 }
 
-p{
-    color:	#004225;
-}
 
 h1{
     text-align: left;
@@ -28,8 +25,9 @@ h2 {
 
 h3{
     font-family: Arial, Helvetica, sans-serif;
-    color: #e25e3e;
+    color: #004225;
 }
+
 
 img{
     height: 300px;
