@@ -34,6 +34,30 @@ img{
     width: 600px;
 }
 
+a{
+    color: blue;
+    display: block;
+    background-color:lemonchiffon;
+    width: fit-content;
+    font-size: 17px;
+}
+
+a:visited{
+    color: blue;
+    display: block;
+    background-color:lemonchiffon;
+    width: fit-content;
+    font-size: 17px;
+}
+
+a:hover, a:focus {
+    color: blue;
+    display: block;
+    background-color:lemonchiffon;
+    width: fit-content;
+    font-size: 17px;
+}
+
 footer{
     text-align: right;
     font-size: 15px;
