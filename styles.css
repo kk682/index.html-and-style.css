@@ -1,6 +1,8 @@
 body{
     background-color: honeydew;
     margin: 2.5cm;
+    margin-top: 18%;
+    margin-bottom: 0%;
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
@@ -44,10 +46,12 @@ hr{
 }
 
 h1{
+    background-color: #e4f1ff;
     text-align: center;
     font-family: Brush Script MT, cursive;
     color: #9400ff;
     font-size: 66px;
+    margin-bottom: 25%;
 }
 
 h2 {
@@ -61,6 +65,7 @@ h2 {
 img{
     height: 200px;
     width: 200px;
+    align-items: center;
 }
 
 footer{
