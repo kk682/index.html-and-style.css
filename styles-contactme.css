@@ -20,30 +20,6 @@ form{
     color: #0d1282;
 }
 
-a{
-    color: blue;
-    display: block;
-    background-color:lemonchiffon;
-    width: fit-content;
-    font-size: 17px;
-    text-align: left;
-}
-
-a:visited{
-    color: blue;
-    display: block;
-    background-color:lemonchiffon;
-    width: fit-content;
-    font-size: 17px;
-}
-
-a:hover, a:focus {
-    color: blue;
-    display: block;
-    background-color:lemonchiffon;
-    width: fit-content;
-    font-size: 17px;
-}
 
 footer{
     text-align: right;
