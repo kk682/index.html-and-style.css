@@ -51,7 +51,7 @@ h1{
     font-family: Brush Script MT, cursive;
     color: #9400ff;
     font-size: 66px;
-    margin-bottom: 25%;
+    margin-bottom: 28%;
 }
 
 h2 {
@@ -65,12 +65,11 @@ h2 {
 img{
     height: 200px;
     width: 200px;
-    align-items: center;
 }
 
 footer{
     text-align: right;
     font-size: 15px;
-    color: #79ac79;
+    color: #445d48;
 }
 
